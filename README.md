@@ -35,6 +35,7 @@
 ## 🎨 Variaciones de Imagen
 
 ### 🔵 Imagen Cuadrada
+![Imagen Adicional](https://i.pinimg.com/736x/98/b1/48/98b14887cd07607784fc3f6caa8625de.jpg)
 
 
 
