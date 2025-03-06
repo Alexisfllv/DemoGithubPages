@@ -42,7 +42,7 @@
 ![Imagen Cuadrada](https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg)
 
 ### 🔴 🖼️ Imagen Circular (HTML)
-<img src="https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg" width="200" height="200" style="border-radius:50%;" alt="Imagen Circular">
+<img src="https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg" width="200" height="200" alt="Imagen Redimensionada">
 
 ```html
 <img src="https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg" width="200" height="200" style="border-radius:50%;" alt="Imagen Circular">
