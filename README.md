@@ -2,8 +2,8 @@
 
 ## 📖 Índice
 
-- [📌 Sobre el Proyecto](#-sobre-el-proyecto)
-- [🛠️ ⚙️ Tecnologías Usadas](#️-tecnologías-usadas)
+- [📌 📝 Sobre el Proyecto](#-sobre-el-proyecto)
+- [🛠️ ⚙️ Tecnologías Usadas](#-tecnologías-usadas)
 - [📸 🖼️ Capturas](#-capturas)
 - [🎨 🎭 Variaciones de Imagen](#-variaciones-de-imagen)
 - [📥 📂 Instalación](#-instalación)
