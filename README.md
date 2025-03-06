@@ -4,7 +4,7 @@
 
 ## 📖 Índice
 - [📌 Sobre el Proyecto](#-sobre-el-proyecto)
-- [🛠️ Tecnologías Usadas](#️-tecnologías-usadas)
+- [🛠️ Tecnologías Usadas](#-tecnologías-usadas)
 - [📸 Capturas](#-capturas)
 - [📥 Instalación](#-instalación)
 - [📌 Uso](#-uso)
