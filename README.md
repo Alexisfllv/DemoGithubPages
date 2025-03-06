@@ -1,45 +1,91 @@
-**# DemoGithubPages**# 🚀 Mi Proyecto en GitHub
-
-![Banner](https://via.placeholder.com/1000x300?text=Banner+del+Proyecto)
+# 🚀 Mi Proyecto en GitHub
 
 ## 📖 Índice
+
 - [📌 Sobre el Proyecto](#-sobre-el-proyecto)
-- [🛠️ Tecnologías Usadas](#-tecnologías-usadas)
-- [📸 Capturas](#-capturas)
-- [📥 Instalación](#-instalación)
-- [📌 Uso](#-uso)
-- [📜 Licencia](#-licencia)
+- [🛠️ ⚙️ Tecnologías Usadas](#️-tecnologías-usadas)
+- [📸 🖼️ Capturas](#-capturas)
+- [🎨 🎭 Variaciones de Imagen](#-variaciones-de-imagen)
+- [📥 📂 Instalación](#-instalación)
+- [📌 📑 Uso](#-uso)
+- [📜 📄 Licencia](#-licencia)
 
 ---
 
-## 📌 Sobre el Proyecto  
-> 📝 **Descripción:** Este proyecto es una demo para aprender a estructurar un README.md con estilo.  
+## 📌 📝 Sobre el Proyecto
 
-📌 **Características:**  
-✔ Diseño atractivo en Markdown.  
-✔ Uso de imágenes redondas y botones.  
-✔ Índice interactivo.  
+> 🏗️ **Descripción:** Este proyecto es una 💡 demo para aprender a estructurar un 📖 README.md con estilo.
 
----
-
-## 🛠️ Tecnologías Usadas  
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+📌 **Características:**
+✔ 🎨 Diseño atractivo en Markdown.
+✔ 🖼️ Uso de imágenes redondas y botones.
+✔ 📌 Índice interactivo.
 
 ---
 
-## 📸 Capturas  
-<div align="center">
-  <img src="https://via.placeholder.com/150" width="150" height="150" style="border-radius:50%;" alt="Captura 1">
-  <img src="https://via.placeholder.com/150" width="150" height="150" style="border-radius:50%;" alt="Captura 2">
-</div>
+## 🛠️ ⚙️ Tecnologías Usadas
+
+- 🐍 Python
+- 🌐 HTML / CSS
+- ⚛️ React
 
 ---
 
-## 📥 Instalación  
-```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
-npm install
+## 📸 🖼️ Capturas
+
+---
+
+## 🎨 🎭 Variaciones de Imagen
+
+### 🔵 🖼️ Imagen Cuadrada
+
+![Imagen Cuadrada](https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg)
+
+### 🔴 🖼️ Imagen Circular (HTML)
+
+```html
+<img src="https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg" width="200" height="200" style="border-radius:50%;" alt="Imagen Circular">
 ```
+
+### 🟢 🖼️ Imagen con Borde Personalizado
+
+```html
+<img src="https://i.pinimg.com/736x/45/69/22/456922c05af2ee062ed54a6252bb84fb.jpg" width="200" height="200" style="border: 5px solid red; border-radius:10px;" alt="Imagen con Borde">
+```
+
+---
+
+## 📥 📂 Instalación
+
+```bash
+📌 git clone https://github.com/tu-usuario/tu-repositorio.git
+📌 cd tu-repositorio
+📌 npm install
+```
+
+---
+
+## 📌 📑 Uso
+
+✅ 🚀 **Ejecutar el Proyecto:**
+
+```bash
+npm start
+```
+
+✅ 🌍 **Abrir en el Navegador:**
+
+📎 http://localhost:3000
+
+✅ 📜 **Ver Documentación:**
+
+📎 http://localhost:3000/docs
+
+---
+
+## 📜 📄 Licencia
+
+📄 Este proyecto está bajo la licencia 🏛️ MIT.
+
+🔒 Licencia protegida 🔐
+
